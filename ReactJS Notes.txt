@@ -1,0 +1,14 @@
+When Using Node.JS Command Prompt:
+Commands:
+
+/* (Need only run once) Installs the ReactJS framework */
+npm install -g create-react-app
+
+/* Creates the initial form of your app */
+create-react-app my-app
+
+/* Navegate into the Folder of the app you created */
+cd my-app
+
+/* Start the App and run it locally in your browser */
+npm start
